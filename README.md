@@ -1,5 +1,7 @@
 # Puppyland
 
+#####Masters degree project
+
 ### How to run
 
 - `npm i --force` (we need to force as `@formkit/auto-animate` is not fully compatible with our version of React)
