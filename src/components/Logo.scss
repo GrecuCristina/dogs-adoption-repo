@@ -1,0 +1,21 @@
+@import "../constants.scss";
+
+.logo {
+  height: auto;
+
+  .tongueColor {
+    fill: #ff277a;
+  }
+
+  .faceColor {
+    fill: #fff;
+  }
+
+  .accentColor {
+    fill: $accentColor;
+  }
+
+  .outlineColor {
+    fill: #3a1300;
+  }
+}
