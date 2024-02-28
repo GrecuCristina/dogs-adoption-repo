@@ -32,5 +32,5 @@ _Reactions to post page_
 ![StatisticPage image](./gitimages/statistics1.png "Statistic Page")
 _Admin statistics page_
 
-![EditUsersPage image](./gitimages/editUsers.png "EditUsers Page")
+![EditUsersPage image](./gitimages/editusers.png "EditUsers Page")
 _Admin edit users page_
